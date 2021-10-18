@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PublicCarlos
+- 👀 I’m interested in applying Software Quality Engineering skills to create Automation Frameworks that test Web Applications in ways that improve the Front-End UX, remove Back-End Bugs, and reduce Social Engineering Threats
+- 🌱 I’m currently learning Cypress.io
+- 💞️ I’m looking to collaborate on awesome tech that blows everyone's mind
+- 📫 Reach me on Twitter @carlos4it
